@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TileSelection.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CharacterManager.cs" Line="233" Column="5" />
+      <File FileName="Assets\Scripts\ObjectSelection.cs" Line="106" Column="71" />
+      <File FileName="Assets\Scripts\TileManager.cs" Line="596" Column="24" />
+      <File FileName="Assets\Scripts\TileSelection.cs" Line="18" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
